@@ -1,0 +1,5 @@
+ADD ParallelApproval level 2
+ADD SequentialApproval level 1
+ADD Approver tishank level 2
+ADD Approver sujeewae level 1
+ADD SequentialApproval level 3
